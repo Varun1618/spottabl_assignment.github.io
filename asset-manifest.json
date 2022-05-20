@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/spottabl_assignment.github.io/static/css/main.f37b1389.css",
+    "main.css": "/spottabl_assignment.github.io/static/css/main.39aedd0b.css",
     "main.js": "/spottabl_assignment.github.io/static/js/main.a360add4.js",
     "static/js/787.6f0453fb.chunk.js": "/spottabl_assignment.github.io/static/js/787.6f0453fb.chunk.js",
     "static/media/logo.png": "/spottabl_assignment.github.io/static/media/logo.c9f7d901aea66ef30825.png",
     "index.html": "/spottabl_assignment.github.io/index.html",
-    "main.f37b1389.css.map": "/spottabl_assignment.github.io/static/css/main.f37b1389.css.map",
+    "main.39aedd0b.css.map": "/spottabl_assignment.github.io/static/css/main.39aedd0b.css.map",
     "main.a360add4.js.map": "/spottabl_assignment.github.io/static/js/main.a360add4.js.map",
     "787.6f0453fb.chunk.js.map": "/spottabl_assignment.github.io/static/js/787.6f0453fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f37b1389.css",
+    "static/css/main.39aedd0b.css",
     "static/js/main.a360add4.js"
   ]
 }
